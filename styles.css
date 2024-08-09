@@ -11,9 +11,9 @@ body {
 header{
 
     border-bottom: solid 3px purple;
-    padding: 20px;
-    font-size: 35px;
-    color: green;
+    padding: 30px;
+    font-size: 30px;
+    color: rgb(255, 11, 11);
 }
 
 .chamada{
@@ -28,10 +28,10 @@ header{
     margin-right: 5%;
 }
 h1{
-    font-size: 40px;
+    font-size: 50px;
 }
 hp{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .categoria-videos{
@@ -51,7 +51,7 @@ hp{
 }
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 2px solid purple;
+    border: 2px solid red;
 }
 .categoria h2{
     color:green ;
